@@ -1,0 +1,17 @@
+{
+	"create":{
+		"title": "Create comment",
+		"success": "The comment was successfully created!",
+    "warning": "Something went wrong! Couldn't create a comment."
+	},
+	"update":{
+		"title": "Update comment",
+		"success": "The comment was successfully updated.",
+    "warning": "Something went wrong! Couldn't update the comment."
+	},
+	"delete": {
+		"success": "The comment was successfully deleted.",
+    "warning": "Something went wrong! Couldn't delete the comment."
+	}
+}
+

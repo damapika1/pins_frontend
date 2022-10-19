@@ -1,0 +1,15 @@
+{
+  "data":[{
+    "id":"7f28c5f9-d711-4cd6-ac15-d13d71abff89",
+    "title":"Pin 1",
+    "description":"Vulputate mi sit amet mauris commodo quis imperdiet massa tincidunt.",
+    "fav":1,
+    "date":"2021-05-27T19:40:00.000Z",
+    "user":{
+      "id":"7f28c5f9-d711-4cd6-ac15-d13d71abff83",
+      "name":"Rayme Emin",
+      "email":"rayme.emin@student.hogent.be"
+      }
+      }],
+      "count":1
+}

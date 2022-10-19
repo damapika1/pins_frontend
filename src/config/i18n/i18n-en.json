@@ -1,0 +1,25 @@
+{
+"shared":{
+	"toast":{
+		"title":{
+			"error": "Error",
+			"success": "Success",
+			"info": "Info",
+			"warning": "Warning"
+		},
+		"message": {
+			"success": {
+				"create": "{{entity}} successfully created",
+				"update": "{{entity}} successfully updated",
+				"delete": "{{entity}} successfully deleted"
+			}
+		}
+	},
+	"error": {
+		"code": {
+			"unknown": "unknown error",
+			"ERR_OP_001": "Invalid login"
+		  }
+	  }
+  }
+}

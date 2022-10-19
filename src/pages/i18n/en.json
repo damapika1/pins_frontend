@@ -1,0 +1,74 @@
+{
+	"login":{
+    "login":"Log in",
+		"title": "Sign in to your account",
+    "register":"Register",
+		"success": "You have been signed in!",
+    "warning":{
+      "title":"Failed to log in!",
+      "info":"Check if you used the correct email address and password."
+    },
+    "extra":"Don't have an account?",
+		"input": {
+      "email": "Email address",
+      "password": "Password",
+      "confirmPassword":"Confirm Password"
+		},
+		"input-error": {
+			"email": {
+				"required": "Email is required",
+        "incorrect":"The given email address is invalid"
+			},
+      "password":{
+        "required": "Password is required",
+        "minLength": "Password needs to be at least uit 8 characters long"
+      }
+		},
+		"button": {
+			"signin": "Sign in"
+		}
+	},
+	"register":{
+    "register":"Register",
+    "login":"Login",
+		"title": "Sign up",
+		"success": "You have been registered!",
+    "warning":{
+      "title":"Failed to register!",
+      "info":"There is already an account with this e-mail address."
+    },
+    "extra":"Already a user? ",
+		"input": {
+      "name":"Name",
+      "email": "Email address",
+      "password": "Password",
+      "confirmPassword":"Confirm Password"
+		},
+		"input-error": {
+			"name": {
+				"required": "Name is required",
+				"minLength": "Name needs to be at least uit 2 characters long",
+				"maxLength":"Name can not be longer than 50 characters"
+			},
+			"email": {
+				"required": "Email is required",
+        "incorrect":"The given email address is invalid"
+			},
+      "password":{
+        "required": "Password is required",
+        "minLength": "Password needs to be at least uit 8 characters long"
+      },
+      "confirmPassword":{
+        "required": "Confirm password is required",
+        "minLength": "Confirm password needs to be at least uit 8 characters long",
+        "match":"Password and confirm password must match"
+      }
+		}	,
+    "button": {
+			"signup": "Sign up"
+		}
+	},
+  "logout":{
+  "success": "You have been logged out!"
+  }
+}

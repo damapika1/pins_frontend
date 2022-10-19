@@ -1,0 +1,76 @@
+{
+  "view":{
+    "title": "Pin view",
+		"input": {
+			"title": "Title",
+			"fav": "Favourite",
+			"description": "Description",
+      "date":"Date",
+      "user":{
+        "title":"Created by",
+        "name":"Username",
+        "email":"User e-mail"
+      }
+		}
+  },
+	"create":{
+		"title": "Create pin",
+		"success": "Pin was successfully created!",
+    "warning": "Something went wrong! Couldn't create a pin.",
+		"input": {
+			"title": "Title",
+			"fav": "Favourite this pin",
+			"description": "Description"
+		},
+		"input-error": {
+			"title": {
+				"required": "Name is required",
+				"minLength":"Name must be between 2 and 50 characters",
+				"maxLength":"Name must be between 2 and 50 characters"
+			},
+			"description": {
+				"maxLength": "The description can't be longer than 255 characters"
+			}
+		},
+		"button": {
+			"yes": "Create pin",
+			"no": "Cancel",
+			"upload": "Upload picture"
+		}
+	},
+	"update":{
+		"title": "Update pin",
+		"success": "Pin was successfully updated.",
+    "warning": "Something went wrong! Couldn't update the pin.",
+		"input": {
+			"title": "Title",
+			"fav": "Favourite this pin",
+			"description": "Description"
+		},
+		"input-error": {
+			"title": {
+				"required": "Name is required",
+				"minLength":"Name must be between 2 and 50 characters",
+				"maxLength":"Name must be between 2 and 50 characters"
+			},
+			"description": {
+				"maxLength": "The description can't be longer than 255 characters"
+			}
+		},
+		"button": {
+			"yes": "Update",
+			"no": "Cancel",
+			"upload": "Upload picture"
+		}
+	},
+	"delete": {
+		"success": "Pin was successfully deleted.",
+    "warning": "Something went wrong! Couldn't delete the pin.",
+		"popup":{
+			"header": "Delete pin",
+			"body": "Are you sure you want to delete this pin?",
+			"no": "Cancel",
+			"yes": "Delete"
+		}
+	}
+}
