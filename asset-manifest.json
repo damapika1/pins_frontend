@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/frontendweb-thomas-2122-natureart/static/css/main.e38cfdd6.chunk.css",
+    "main.js": "/frontendweb-thomas-2122-natureart/static/js/main.20078ce7.chunk.js",
+    "main.js.map": "/frontendweb-thomas-2122-natureart/static/js/main.20078ce7.chunk.js.map",
+    "runtime-main.js": "/frontendweb-thomas-2122-natureart/static/js/runtime-main.f96b9d70.js",
+    "runtime-main.js.map": "/frontendweb-thomas-2122-natureart/static/js/runtime-main.f96b9d70.js.map",
+    "static/js/2.a4cdc651.chunk.js": "/frontendweb-thomas-2122-natureart/static/js/2.a4cdc651.chunk.js",
+    "static/js/2.a4cdc651.chunk.js.map": "/frontendweb-thomas-2122-natureart/static/js/2.a4cdc651.chunk.js.map",
+    "static/js/3.37a72be0.chunk.js": "/frontendweb-thomas-2122-natureart/static/js/3.37a72be0.chunk.js",
+    "static/js/3.37a72be0.chunk.js.map": "/frontendweb-thomas-2122-natureart/static/js/3.37a72be0.chunk.js.map",
+    "index.html": "/frontendweb-thomas-2122-natureart/index.html",
+    "static/css/main.e38cfdd6.chunk.css.map": "/frontendweb-thomas-2122-natureart/static/css/main.e38cfdd6.chunk.css.map",
+    "static/js/2.a4cdc651.chunk.js.LICENSE.txt": "/frontendweb-thomas-2122-natureart/static/js/2.a4cdc651.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f96b9d70.js",
+    "static/js/2.a4cdc651.chunk.js",
+    "static/css/main.e38cfdd6.chunk.css",
+    "static/js/main.20078ce7.chunk.js"
+  ]
+}
